@@ -55,7 +55,7 @@ I'm self driven, hard working and easy going. I also hold a bachelors degree in 
 
 - 📫 How to reach me on **[Email](ammarsayed1988@gmail.com)**
 - 🖊️ Linkedin [profile](https://www.linkedin.com/in/ammarsayed/)
-- 👨‍💻 Checout My Portfolio **[comming soon](#)**
+- 👨‍💻 Checout My Portfolio **[Website](https://ammarsayed.github.io/my-profile/)**
 - 🌱 I’m currently learning **React**
 
 <hr>
