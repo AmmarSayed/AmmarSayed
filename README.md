@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 <h2>About Me </h2>
 
-<p>I'm a self tought front end developer, and I've went through multible online courses / track suggested by </p>
+<p>I'm a self tought front end developer, and I've went through multiple online courses / track suggested by </p>
 
 [Kalbonyan Elmarsos](https://github.com/AmmarSayed/Kalbonyan-Elmarsos)
 
