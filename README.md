@@ -1,85 +1,70 @@
-<!--
-**AmmarSayed/AmmarSayed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi there 👋, I'm Ammar Sayed</h1>
+<h2 align="center">MIS Professional · Data Science MSc Student · Builder of Things</h2>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<h1 align="center">Hi there 👋!, I'm Ammar Sayed</h1>
-<h2 align="center">A Passionate Starter developer</h2>
-
-<img src="https://images.unsplash.com/photo-1462331940025-496dfbfc7564?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1400&h=500&&q=80">
+<img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-1.2.1&auto=format&fit=crop&w=1400&h=500&q=80">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ammarsayed" alt="ammarsayed" />
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="git" width="20" height="20"/>
-  <img src="https://img.icons8.com/color/48/000000/linux.png" alt="linux" width="20" height="20"/> 
-  <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="bootstrap" width="20" height="20"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="20" height="20"/> 
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="nodejs" width="20" height="20"/> 
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="python" width="20" height="20"/>
+  <img src="https://img.icons8.com/color/48/000000/r-project.png" alt="r" width="20" height="20"/>
+  <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" alt="excel" width="20" height="20"/>
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="powerbi" width="20" height="20"/>
+  <img src="https://img.icons8.com/color/48/000000/sql.png" alt="sql" width="20" height="20"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="20" height="20"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="javascript" width="20" height="20"/>
 </p>
 
 <hr>
 
-<h2>About Me </h2>
+## About Me
 
-<p>I'm a self tought front end developer, and I've went through multiple online courses / track suggested by </p>
+I'm a Senior Officer in Management Information Systems / Assistant Manager at **EGYBELL (Afreximbank Group)**, with 10+ years of experience spanning MIS, data analytics, operations, and the travel industry. I'm currently pursuing an **MSc in Data Science at the University of East London**, where I'm deepening my work in statistics, machine learning, and spatial data analysis.
 
-[Kalbonyan Elmarsos](https://github.com/AmmarSayed/Kalbonyan-Elmarsos)
-
-<p>During this 6 months internship, I have:</p>
-
-- Learned Programing Fundamentals, HTMl, CSS and Javascript
-- Learned MERN Stack
-- Learned How to Deploy web applications with Cloud Provider (AWS)
-- Learned How to Make serverless web applications
-
-<br>
-Those great recources have helped me a lot and introduced me to the world of conding.
-I've a great background in Travel industry, Administration, Quality control and customer services.
-I've been in the profisional business environment for more than 10 years,
-which will definetly be agreat support in dealing with enternal and external stackholders of the business.
-I enjoy building digital products that help and solve problems or entertain people. Preferrably in Javascript or Python.
-I'm self driven, hard working and easy going. I also hold a bachelors degree in Accounting.
+I enjoy building practical things — whether that's data pipelines, dashboards, structured analytical workflows, or actual ouds (the Arabic string instrument) in my workshop. I work in English and Arabic, and I'm drawn to projects where data meets a real-world problem worth solving.
 
 <hr>
 
-- 📫 How to reach me on **[Email](ammarsayed1988@gmail.com)**
-- 🖊️ Linkedin **[profile](https://www.linkedin.com/in/ammarsayed/)**
-- 👨‍💻 Checout My Portfolio **[Website](https://ammarsayed.github.io/my-profile/)**
-- 🧾 My CV **[View CV](https://drive.google.com/file/d/1op8Uzm9aeXntnXAlymqxQQcaYp_VKyQ9/view)**
-- 🌱 I’m currently learning **React**
+## What I'm Working On
+
+- 🎓 **MSc Data Science at UEL** — working through statistics, ML, and spatial data modules
+- 📊 **Power BI** dashboards and data modeling (Star Schema, SCDs, grain design)
+- 🐍 **Python & R** for analytics, with an interest in Africa-focused datasets (Zindi competitions, trade finance data)
+- 🗺️ **Spatial data analysis** with QGIS and SpatiaLite
+- 🤖 Exploring **local LLMs (Ollama)** alongside cloud workflows for analysis and writing
 
 <hr>
 
-<h2>My stack </h2>
+## Tech Stack
 
-- **Frontend**: HTML, CSS, Bootstrap, JavaScript, React
-- **Database**: Firebase, MongoDB / Mongoose / MySQL
-- **Backend** : NodeJs / Express
+**Data & Analytics**  
+Python · R · SQL · Power BI · Excel (advanced) · QGIS / SpatiaLite · Jupyter
 
-<hr>
+**Web Development**  
+JavaScript · React · Node.js · Express · MongoDB · HTML / CSS
 
-## Experience:
-
-- Assistant Manager (ADMIN) Information Systems | Afreximbank (2021 – Present)
-- Senior Travel Supervisor | Afreximbank (2019 – 2021)
-- Senior Travel Counselor | Excel Travel (2015 - 2019)
+**Tools & Workflows**  
+Git · GitHub · AWS · VS Code · MERN stack
 
 <hr>
 
-## My GitHub Stats &#x1f4c8;
+## Experience
 
-<br>
+- **Senior Officer / Assistant Manager (MIS)** — EGYBELL (Afreximbank Group) · *2021 – Present*
+- **Senior Travel Supervisor** — Afreximbank · *2019 – 2021*
+- **Senior Travel Counselor** — Excel Travel · *2015 – 2019*
+
+<hr>
+
+## Connect
+
+- 📫 Email: **ammarsayed1988@gmail.com**
+- 💼 LinkedIn: **[linkedin.com/in/ammarsayed](https://www.linkedin.com/in/ammarsayed/)**
+- 🌐 Portfolio: **[ammarsayed.github.io/my-profile](https://ammarsayed.github.io/my-profile/)**
+
+<hr>
+
+## GitHub Stats 📈
+
 <a href="https://github.com/ammarsayed/ammarsayed">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ammarsayed&hide=c,makefile,html&title_color=ffffff&text_color=c9caca&icon_color=2bbc8b&bg_color=1d1f21" />
 </a>
@@ -89,10 +74,4 @@ I'm self driven, hard working and easy going. I also hold a bachelors degree in 
 
 <hr>
 
-### Other skills and Keywords:
-
-Ms. Office, Git, GitHub, MS. Excel, AJAX, Async / Await, APIs, Restful API, Database, Front End, Back End, Full stack, MERN Stack
-
-### Soft Skills & Specialization / Keywords:
-
-Committed, Time Management, Customer Service, English, English Speaking, Excellent Communication Skills (In English), Excellent Communication Skills (In Arabic), Creative, Confident, Flexible, Teamwork, Team player, Problem Solving, Passionate, Innovative, Front-end Developer, Coding, APIs.
+⚡ **Fun fact:** I build ouds. The same attention to grain, structure, and tuning that goes into a good data model also goes into wood.
