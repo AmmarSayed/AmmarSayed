@@ -65,13 +65,10 @@ Git · GitHub · AWS · VS Code · MERN stack
 
 ## GitHub Stats 📈
 
-<a href="https://github.com/ammarsayed/ammarsayed">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ammarsayed&hide=c,makefile,html&title_color=ffffff&text_color=c9caca&icon_color=2bbc8b&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/ammarsayed/ammarsayed">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ammarsayed&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9caca&icon_color=2bbc8a&bg_color=1d1f21" alt="Ammar Sayed's GitHub Stats" />
-</a>
+## GitHub Stats 📈
 
-<hr>
+![Profile views](https://komarev.com/ghpvc/?username=ammarsayed&color=2bbc8b&style=flat-square)
+![Followers](https://img.shields.io/github/followers/ammarsayed?style=flat-square&color=2bbc8b)
+![Stars](https://img.shields.io/github/stars/ammarsayed?style=flat-square&color=2bbc8b)<hr>
 
 ⚡ **Fun fact:** I build ouds. The same attention to grain, structure, and tuning that goes into a good data model also goes into wood.
