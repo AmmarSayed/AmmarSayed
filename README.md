@@ -62,6 +62,7 @@ Git · GitHub · AWS · VS Code · MERN stack
 - 🌐 Portfolio: **[ammarsayed.github.io/my-profile](https://ammarsayed.github.io/my-profile/)**
 
 <hr>
+
 ## GitHub Stats 📈
 
 ![Profile views](https://komarev.com/ghpvc/?username=ammarsayed&color=2bbc8b&style=flat-square)
